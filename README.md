@@ -1,2 +1,2 @@
 # FunFilter
-Фильтр чата для Spigot сервера Minecraft
+All information avaliable in wiki - https://funfilter.arial.su
