@@ -1,0 +1,16 @@
+# /funfilter - перезагрузка плагина (Пермишен funfilter.admin)
+#
+# funfilter.symbolblocker.bypass - обход ограничений по символам
+# funfilter.view - просмотр мата в сообщениях
+
+symbolBlocker:
+  enabled: true
+  regex: "[а-яА-ЯёЁa-zA-Z0-9]"
+  message: "Вы используете запрещённые символы!"
+
+# Символ, которым заменяется
+toBlock: '*'
+
+# Список заблокированных слов
+blockedWords:
+  - "блять"

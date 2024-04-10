@@ -1,0 +1,9 @@
+name: FunFilter
+version: '1.0'
+main: me.arial.filter.Main
+api-version: '1.16'
+depend:
+  - ProtocolLib
+
+commands:
+  funfilter:
